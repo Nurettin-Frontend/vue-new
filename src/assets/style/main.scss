@@ -1,0 +1,26 @@
+@import './colors.scss';
+@import '../fonts/fonts.scss';
+
+*{
+  margin: 0px;
+  padding: 0px
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+
+.d-block{
+  display: block;
+}
+
+.d-inline-block{
+  display: inline-block;
+}
+
+
+// text
+.text-center{
+  text-align: center;
+}
